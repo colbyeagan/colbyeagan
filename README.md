@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+
+### About me 🔎
+I am a driven individual at the intersection of computer science and statistics. With a passion for software engineering and quantitative research, I bring a diverse skill set and insatiable curiosity to my work. I excel in agile workflow software environments, quantitative research fields, and in generating high quality statistically significant social research. I value commitment to collaborative impact, and am ready to contribute to innovative projects in tech and research.
+
+### Learn More 📙
+Please check out my [personal portfolio](https://colbyeagan.github.io/) as well as my [repositories](https://github.com/colbyeagan?tab=repositories).
+Connect with me on [linkedin](https://www.linkedin.com/in/colbyeagan/)
+
 
 <!--
 **colbyeagan/colbyeagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
